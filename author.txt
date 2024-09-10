@@ -1,0 +1,114 @@
+
+Primary Author - First Name: q3_fullName3[first]
+Primary Author - Last Name: q3_fullName3[last]
+Company Name (Optional): q100_companyName
+Address - Street Address: q4_address4[addr_line1]
+Address - Street Address Line 2: q4_address4[addr_line2]
+Address - City: q4_address4[city]
+Address - State / Province: q4_address4[state]
+Address - Postal / Zip Code: q4_address4[postal]
+Address - Country: q4_address4[country]
+Phone Number: q215_typeA215
+E-mail: q6_email6
+
+
+
+2nd Author First Name: q46_2ndAuthor[first]
+2nd Author Last Name: q46_2ndAuthor[last]
+Company Name (Optional): q102_companyName102
+Street Address: q47_address[addr_line1]
+Street Address Line 2: q47_address[addr_line2]
+City: q47_address[city]
+State / Province: q47_address[state]
+Postal / Zip Code: q47_address[postal]
+Country: q47_address[country]
+Phone Number: q227_phoneNumber227
+E-mail: q49_email
+
+
+3rd Author First Name: q52_3rdAuthor[first]
+3rd Author Last Name: q52_3rdAuthor[last]
+Company Name (Optional): q103_companyName103
+Street Address: q53_address53[addr_line1]
+Street Address Line 2: q53_address53[addr_line2]
+City: q53_address53[city]
+State / Province: q53_address53[state]
+Postal / Zip Code: q53_address53[postal]
+Country: q53_address53[country]
+Phone Number: q228_phoneNumber228
+E-mail: q55_email55
+
+
+4th Author First Name: q58_4thAuthor[first]
+4th Author Last Name: q58_4thAuthor[last]
+Company Name (Optional): q104_companyName104
+Street Address: q59_address59[addr_line1]
+Street Address Line 2: q59_address59[addr_line2]
+City: q59_address59[city]
+State / Province: q59_address59[state]
+Postal / Zip Code: q59_address59[postal]
+Country: q59_address59[country]
+Phone Number: q229_phoneNumber229
+E-mail: q61_email61
+
+5th Author First Name: q70_5thAuthor[first]
+5th Author Last Name: q70_5thAuthor[last]
+Company Name (Optional): q105_companyName105
+Street Address: q71_address71[addr_line1]
+Street Address Line 2: q71_address71[addr_line2]
+City: q71_address71[city]
+State / Province: q71_address71[state]
+Postal / Zip Code: q71_address71[postal]
+Country: q71_address71[country]
+Phone Number: q230_phoneNumber230
+E-mail: q73_email73
+
+6th Author First Name: q64_6thAuthor[first]
+6th Author Last Name: q64_6thAuthor[last]
+Company Name (Optional): q106_companyName106
+Street Address: q65_address65[addr_line1]
+Street Address Line 2: q65_address65[addr_line2]
+City: q65_address65[city]
+State / Province: q65_address65[state]
+Postal / Zip Code: q65_address65[postal]
+Country: q65_address65[country]
+Phone Number: q231_phoneNumber231
+E-mail: q67_email67
+
+
+8th Author - q82_8thAuthor[first] (First Name)
+8th Author - q82_8thAuthor[last] (Last Name)
+Company Name (Optional) - q108_companyName108
+Address - q83_address83[addr_line1] (Street Address)
+Address - q83_address83[addr_line2] (Street Address Line 2)
+Address - q83_address83[city] (City)
+Address - q83_address83[state] (State / Province)
+Address - q83_address83[postal] (Postal / Zip Code)
+Address - q83_address83[country] (Country)
+Phone Number - q233_phoneNumber233
+E-mail - q85_email85
+
+
+9th Author - q88_9thAuthor[first] (First Name)
+9th Author - q88_9thAuthor[last] (Last Name)
+Company Name (Optional) - q109_companyName109
+Address - q89_address89[addr_line1] (Street Address)
+Address - q89_address89[addr_line2] (Street Address Line 2)
+Address - q89_address89[city] (City)
+Address - q89_address89[state] (State / Province)
+Address - q89_address89[postal] (Postal / Zip Code)
+Address - q89_address89[country] (Country)
+Phone Number - q234_phoneNumber234
+E-mail - q91_email91
+
+
+10th Author - q94_10thAuthor[first] (First Name)
+10th Author - q94_10thAuthor[last] (Last Name)
+Company Name (Optional) - q110_companyName110
+Address - q95_address95[addr_line1] (Street Address)
+Address - q95_address95[addr_line2] (Street Address Line 2)
+Address - q95_address95[city] (City)
+Address - q95_address95[state] (State / Province)
+Address - q95_address95[postal] (Postal / Zip Code)
+Address - q95_address95[country] (Country)
+Phone Number - q235_phoneNumber235
